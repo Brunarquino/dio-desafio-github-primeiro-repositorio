@@ -45,7 +45,7 @@ Repositório criado para o Desafio de Projeto sobre Git/GitHub
 
 [Lógica Condicional e Controle de Fluxos em Java](https://github.com/Brunarquino/curso-logica-condicional-e-controle-de-fluxos-em-java)
 
-[]()
+[Curso de Estruturas de Repetições e Arrays](https://github.com/Brunarquino/curso-estruturas-de-repeticoes-e-arrays)
 
 *03/05/2022*
 
