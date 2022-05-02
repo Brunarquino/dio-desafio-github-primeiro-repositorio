@@ -43,7 +43,7 @@ Repositório criado para o Desafio de Projeto sobre Git/GitHub
 
 [Entendendo Métodos em Java](https://github.com/Brunarquino/curso_metodos/tree/master)
 
-[]()
+[Lógica Condicional e Controle de Fluxos em Java](https://github.com/Brunarquino/curso-logica-condicional-e-controle-de-fluxos-em-java)
 
 []()
 
