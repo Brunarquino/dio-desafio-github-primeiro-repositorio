@@ -47,21 +47,9 @@ Repositório criado para o Desafio de Projeto sobre Git/GitHub
 
 [Curso de Estruturas de Repetições e Arrays](https://github.com/Brunarquino/curso-estruturas-de-repeticoes-e-arrays)
 
-*03/05/2022*
+*03/05/2022* e *04/05/2022*
 
-[]()
-
-[]()
-
-[]()
-
-*04/05/2022*
-
-[]()
-
-[]()
-
-[]()
+[Trabalhando com Collections Java](https://github.com/Brunarquino/curso-trabalhando-com-collections-java)
 
 *05/05/2022*
 
