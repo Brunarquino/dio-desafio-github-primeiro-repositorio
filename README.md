@@ -6,11 +6,22 @@ Repositório criado para o Desafio de Projeto sobre Git/GitHub
 
 *21/04/2022*
 
-[Lógica de Programação]()
+[Lógica de Programação](https://github.com/Brunarquino/dio-desafio-github-primeiro-repositorio/tree/main/logicaDeProgramacao)
+
+ - Exercicios simples no Portugol
+   - [Olá, Mundo!](https://github.com/Brunarquino/dio-desafio-github-primeiro-repositorio/blob/main/logicaDeProgramacao/olaMundoNoPortugol.por)
+   - [Média dos alunos simples](https://github.com/Brunarquino/dio-desafio-github-primeiro-repositorio/blob/main/logicaDeProgramacao/mediaAlunos-%20portugol.por)
+   - [Média dos alunos com aprovação](https://github.com/Brunarquino/dio-desafio-github-primeiro-repositorio/blob/main/logicaDeProgramacao/aprovacao.por)
+   - [Média de salario dos funcionarios](https://github.com/Brunarquino/dio-desafio-github-primeiro-repositorio/blob/main/logicaDeProgramacao/mediaDoFuncionario.por)
+   - [Tabuada simples](https://github.com/Brunarquino/dio-desafio-github-primeiro-repositorio/blob/main/logicaDeProgramacao/tabuada-%20portugol.por)
+   - [Escolha uma plataforma de streaming](https://github.com/Brunarquino/dio-desafio-github-primeiro-repositorio/blob/main/logicaDeProgramacao/escolha.por)
+   - [Uso de Vetores](https://github.com/Brunarquino/dio-desafio-github-primeiro-repositorio/blob/main/logicaDeProgramacao/vetor.por)
+   - [Uso de Matrizes 1](https://github.com/Brunarquino/dio-desafio-github-primeiro-repositorio/blob/main/logicaDeProgramacao/exercicioFinalMatriz.por)
+   - [Uso de Matrizes 2](https://github.com/Brunarquino/dio-desafio-github-primeiro-repositorio/blob/main/logicaDeProgramacao/matrizexercicio%20final.por)
 
 *24/04/2022*
 
-[Estrutura de dados e Algoritmos]()
+[Estrutura de dados e Algoritmos | Resumo do curso](https://github.com/Brunarquino/dio-desafio-github-primeiro-repositorio/tree/main/estruturaDeRepeticao)
 
 *25/04/2022*
 
@@ -27,11 +38,34 @@ Repositório criado para o Desafio de Projeto sobre Git/GitHub
 
 [Java Fundamental - Variaveis, Tipos de Dados e Operadores Matemáticos em Java](https://github.com/Brunarquino/VTO)
 
-*28/04/2022*
 
-*29/04/2022*
+*02/05/2022*
 
-*30/04/2022*
+[Entendendo Métodos em Java](https://github.com/Brunarquino/curso_metodos/tree/master)
+
+[Lógica Condicional e Controle de Fluxos em Java](https://github.com/Brunarquino/curso-logica-condicional-e-controle-de-fluxos-em-java)
+
+[Curso de Estruturas de Repetições e Arrays](https://github.com/Brunarquino/curso-estruturas-de-repeticoes-e-arrays)
+
+*03/05/2022* e *04/05/2022*
+
+[Trabalhando com Collections Java](https://github.com/Brunarquino/curso-trabalhando-com-collections-java)
+
+*05/05/2022*
+
+[Desafios Iniciais em Java](https://github.com/Brunarquino/desafios-inicias-java-gft-start-woman)
+
+[]()
+
+[]()
+
+*06/05/2022*
+
+[]()
+
+[]()
+
+[]()
 
 
 *Participação no bootcamp GFT Start Woman Java*
