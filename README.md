@@ -41,27 +41,25 @@ Repositório criado para o Desafio de Projeto sobre Git/GitHub
 
 *02/05/2022*
 
-[Entendendo Métodos em Java](https://github.com/Brunarquino/curso_metodos/tree/master)
+[Java Fundamental - Entendendo Métodos em Java](https://github.com/Brunarquino/curso_metodos/tree/master)
 
-[Lógica Condicional e Controle de Fluxos em Java](https://github.com/Brunarquino/curso-logica-condicional-e-controle-de-fluxos-em-java)
+[Java Fundamental - Lógica Condicional e Controle de Fluxos em Java](https://github.com/Brunarquino/curso-logica-condicional-e-controle-de-fluxos-em-java)
 
-[Curso de Estruturas de Repetições e Arrays](https://github.com/Brunarquino/curso-estruturas-de-repeticoes-e-arrays)
+[Java Fundamental - Curso de Estruturas de Repetições e Arrays](https://github.com/Brunarquino/curso-estruturas-de-repeticoes-e-arrays)
 
 *03/05/2022* e *04/05/2022*
 
-[Trabalhando com Collections Java](https://github.com/Brunarquino/curso-trabalhando-com-collections-java)
+[Java Fundamental - Trabalhando com Collections Java](https://github.com/Brunarquino/curso-trabalhando-com-collections-java)
 
 *05/05/2022*
 
-[Desafios Iniciais em Java](https://github.com/Brunarquino/desafios-inicias-java-gft-start-woman)
+[Java Fundamental - Desafios Iniciais em Java](https://github.com/Brunarquino/desafios-inicias-java-gft-start-woman)
 
-[]()
-
-[]()
+[Java Essencial - Curso de Debuggin Java](https://github.com/Brunarquino/dio-desafio-github-primeiro-repositorio/blob/main/debuggingJava/README.md)
 
 *06/05/2022*
 
-[]()
+[Java Essencial - Curso de Tratamento de Exceções](https://github.com/Brunarquino/curso-tratamento-de-execoes-java/blob/master/README.md)
 
 []()
 
