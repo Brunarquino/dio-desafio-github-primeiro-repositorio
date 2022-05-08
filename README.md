@@ -62,15 +62,6 @@ Repositório criado para o Desafio de Projeto sobre Git/GitHub
 [Java Essencial - Curso de Tratamento de Exceções](https://github.com/Brunarquino/curso-tratamento-de-execoes-java/blob/master/README.md)
 
 *07/05/2022*
-[Java Essencial - ]()
-
-*08/05/2022*
-
-[Java Essencial - ]()
-
-[Java Essencial - ]()
-
-*07/05/2022*
 [Java Essencial - Curso de Programação Orientada a Objetos](https://github.com/Brunarquino/curso-POO)
 
 *08/05/2022*
