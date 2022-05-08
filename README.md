@@ -3,6 +3,9 @@
 
 Repositório criado para o Desafio de Projeto sobre Git/GitHub
 
+----
+
+### 🔴 Módulo I - Conteúdo de Abertura
 
 *21/04/2022*
 
@@ -27,12 +30,21 @@ Repositório criado para o Desafio de Projeto sobre Git/GitHub
 
 [Projeto do curso introdução a git e github da dio - Livro de Receitas](https://github.com/Brunarquino/livro-receitas).
 
+----
+
+### 🔴 Módulo II - Setup
+
 *26/04/2022*
 
-### Dominando IDEs Java
+#### Dominando IDEs Java
+
 [Aprendendo a Ultilizar o Eclipse e como ultiliza-ló com Git e GitHub](https://github.com/Brunarquino/teste-curso-dio-dominando-ides-java).
+
 [Aprendendo a Ultilizar o IntelliJ e como ultiliza-ló com Git e GitHub](https://github.com/Brunarquino/teste-curso-dio-dominando-ides-intelliJ-).
 
+----
+
+### 🔴 Módulo III - Java Fundamental
 
 *27/04/2022*
 
@@ -55,6 +67,10 @@ Repositório criado para o Desafio de Projeto sobre Git/GitHub
 
 [Java Fundamental - Desafios Iniciais em Java](https://github.com/Brunarquino/desafios-inicias-java-gft-start-woman)
 
+----
+
+### 🔴 Módulo IV - Java Essencial
+
 [Java Essencial - Curso de Debuggin Java](https://github.com/Brunarquino/dio-desafio-github-primeiro-repositorio/blob/main/debuggingJava/README.md)
 
 *06/05/2022*
@@ -62,6 +78,7 @@ Repositório criado para o Desafio de Projeto sobre Git/GitHub
 [Java Essencial - Curso de Tratamento de Exceções](https://github.com/Brunarquino/curso-tratamento-de-execoes-java/blob/master/README.md)
 
 *07/05/2022*
+
 [Java Essencial - Curso de Programação Orientada a Objetos](https://github.com/Brunarquino/curso-POO)
 
 *08/05/2022*
@@ -74,9 +91,17 @@ Repositório criado para o Desafio de Projeto sobre Git/GitHub
 
 [Abstraindo Situações do Mundo Real com Orientação a Objetos]
 
+----
+
+### 🔴 Módulo V - Arquitetura de Sistemas
+
 [Arquitetura de Sistemas - Introdução ao HTTP/HTTPS]
 
 *10/05/2022*
+
+----
+
+### 🔴 Módulo VI - Java Avançado
 
 [Java Avançado - Simplificando Projetos Java com o Spring Boot]
 
