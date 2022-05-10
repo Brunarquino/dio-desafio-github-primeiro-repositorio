@@ -87,17 +87,17 @@ Repositório criado para o Desafio de Projeto sobre Git/GitHub
 
 [Java Essencial - Desafios Intermediarios Java GFT Start Woman](https://github.com/Brunarquino/desafios-intermediarios-java-gft-start-woman)
 
-*09/05/2022*
+*10/05/2022*
 
-[Abstraindo Situações do Mundo Real com Orientação a Objetos]
+[Abstraindo Situações do Mundo Real com Orientação a Objetos](https://github.com/Brunarquino/mentoria-situacoes-do-mundo-real-com-OO)
 
 ----
 
 ### 🔴 Módulo V - Arquitetura de Sistemas
 
-[Arquitetura de Sistemas - Introdução ao HTTP/HTTPS]
+[Arquitetura de Sistemas - Introdução ao HTTP/HTTPS](https://github.com/Brunarquino/Curso-de-Introducao-ao-HTTP-HTTPS)
 
-*10/05/2022*
+*11/05/2022*
 
 ----
 
