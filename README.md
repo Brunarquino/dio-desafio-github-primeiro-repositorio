@@ -103,9 +103,9 @@ Repositório criado para o Desafio de Projeto sobre Git/GitHub
 
 ### 🔴 Módulo VI - Java Avançado
 
-[Java Avançado - Simplificando Projetos Java com o Spring Boot]
+Java Avançado - Simplificando Projetos Java com o Spring Boot
 
-[Java Avançado - Explorando Padrões de Projetos na Prática com Java]
+Java Avançado - Explorando Padrões de Projetos na Prática com Java
 
 
 *Participação no bootcamp GFT Start Woman Java*
